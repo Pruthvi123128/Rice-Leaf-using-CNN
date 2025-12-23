@@ -1,1 +1,1 @@
-# Rice-Leaf-using-CNN
+# Rice Leaf using CNN
